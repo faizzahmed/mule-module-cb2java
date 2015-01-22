@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(copybook2javaextension:copybook-to-record) -->
+    <copybook2javaextension:copybook-to-record content="#[map-payload:content]" />
+<!-- END_INCLUDE(copybook2javaextension:copybook-to-record) -->
