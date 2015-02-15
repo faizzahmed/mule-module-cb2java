@@ -42,9 +42,9 @@
     </repositories>
 
     <scm>
-        <connection>scm:git:git://github.com:mulesoft/mule-module-cb2java.git</connection>
-        <developerConnection>scm:git:git@github.com:mulesoft/mule-module-cb2java.git</developerConnection>
-        <url>http://github.com/mulesoft/mule-module-cb2java</url>
+        <connection>scm:git:git://github.com:ullgren/mule-module-cb2java.git</connection>
+        <developerConnection>scm:git:git@github.com:ullgren/mule-module-cb2java.git</developerConnection>
+        <url>http://github.com/ullgren/mule-module-cb2java</url>
     </scm>
 
     <dependencies>
